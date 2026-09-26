@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5693033-0a13-4f90-8854-b123d000af19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/payment/BkashPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/payment/CardPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_5SpringIocContainer/payment/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/BeanScope/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/BeanScope/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/BeanScope/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/javacircular/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_6CircularDependency/javacircular/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_7BeanLifeCycle/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_7BeanLifeCycle/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_7BeanLifeCycle/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_7BeanLifeCycle/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_7BeanLifeCycle/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inversion/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/controller/HelloContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notification/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notification/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notification/SmsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example2/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="4.1824438802518246E-23" />
+      <entry key="MS500" value="3.3441521192861656E-5" />
+      <entry key="S2" value="0.07604514741462921" />
+      <entry key="S5" value="0.356803086411758" />
+      <entry key="S10" value="0.5973299644348659" />
+      <entry key="S30" value="0.842179696412653" />
+      <entry key="S60" value="0.9177034904655498" />
+      <entry key="M2" value="0.9579684184228489" />
+      <entry key="M5" value="0.9832176347344632" />
+      <entry key="M10" value="1.0228904681993312" />
+      <entry key="M15" value="1.152424412204947" />
+      <entry key="M30" value="1.7924603303648021" />
+      <entry key="H1" value="2.7821822282956457" />
+      <entry key="H2" value="3.6703235354098824" />
+      <entry key="H4" value="4.268304857870983" />
+      <entry key="D1" value="4.867571142921007" />
+      <entry key="W1" value="4.980807776159523" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0003510587238396" />
+      <entry key="S2" value="1.1368815588491967" />
+      <entry key="S5" value="1.4513754942441246" />
+      <entry key="S10" value="1.6718448438770106" />
+      <entry key="S30" value="1.8758364111607477" />
+      <entry key="S60" value="1.9358613204747528" />
+      <entry key="M2" value="1.9673992561264244" />
+      <entry key="M5" value="1.9871339524568323" />
+      <entry key="M10" value="2.032381460716171" />
+      <entry key="M15" value="2.192201478004687" />
+      <entry key="M30" value="2.989277695220146" />
+      <entry key="H1" value="4.225419701049887" />
+      <entry key="H2" value="5.336004462144924" />
+      <entry key="H4" value="6.084179770057593" />
+      <entry key="D1" value="6.834221713486361" />
+      <entry key="W1" value="6.975973984046443" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.676484752844596E-18" />
+      <entry key="MS500" value="4.515752379442391E-4" />
+      <entry key="S2" value="0.30190360771746483" />
+      <entry key="S5" value="1.1877560577183357" />
+      <entry key="S10" value="1.8851802169171816" />
+      <entry key="S30" value="2.5688545392871824" />
+      <entry key="S60" value="2.7759700442383775" />
+      <entry key="M2" value="2.885785986781154" />
+      <entry key="M5" value="2.9543258876266005" />
+      <entry key="M10" value="3.0471819817328476" />
+      <entry key="M15" value="3.3391039399067797" />
+      <entry key="M30" value="4.778667236149526" />
+      <entry key="H1" value="7.005827739866711" />
+      <entry key="H2" value="9.005333767812497" />
+      <entry key="H4" value="10.35195144037952" />
+      <entry key="D1" value="11.701697965868222" />
+      <entry key="W1" value="11.956768041734867" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3J2pf8GzzvBuWX1QnVhmhtdOb4x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.SpringBootCoreApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jotir/IdeaProjects/SpringBoot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jotir\IdeaProjects\SpringBoot\Charpter_09\SpringBootCore\SpringBootCore\src\main\java\com\example\SpringBootCore" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5693033-0a13-4f90-8854-b123d000af19" name="Changes" comment="" />
+      <created>1788869123795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788869123795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,4 +1,8 @@
 package com.bd.profileDemo;
 
-public class NotificationService {
+import org.springframework.stereotype.Service;
+
+
+public interface NotificationService {
+    String send();
 }

@@ -1,3 +1,5 @@
 Chapter_28/hibernate/src/main/resources/application.properties
 Chapter_25/customAnnotation/src/main/resources/application.properties
 Chapter_27/springJDBC/src/main/resources/application.properties
+Chapter_30/jpaRelationship/src/main/resources/application.properties
+Chapter_29/hibernateInternal/src/main/resources/application.properties
